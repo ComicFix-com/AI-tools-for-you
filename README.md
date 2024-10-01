@@ -1,5 +1,5 @@
 <div align="center">
-    <img width="150" alt="AI Picture" src="https://github.com/yousefebrahimi0/1000-AI-collection-tools/blob/main/DALL%C2%B7E-generated-picture.png" />
+    <img width="150" alt="AI Picture" src="" />
     <h1>1000 AI Collection Tools</h1>
     <i>Discover over 1000 AI-powered tools</i>
     <br />
