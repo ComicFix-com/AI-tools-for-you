@@ -1,7 +1,5 @@
-<div>
-    <div align="center">
-        <img width="150" alt="AI Picture" src="https://github.com/ComicFix-com/AI-tools-for-you/blob/2d390b7b8ccaf663b4188d5a1b53e73102ddfbc2/0_Kou69LOoiWkrjTdz.webp" />
-    </div>
+<div align="center">
+    <img width="150" alt="AI Picture" src="https://github.com/ComicFix-com/AI-tools-for-you/blob/2d390b7b8ccaf663b4188d5a1b53e73102ddfbc2/0_Kou69LOoiWkrjTdz.webp" />
     
     <h2>1000+ AI Collection Tools - Your Ultimate Resource</h2>
     
@@ -20,6 +18,7 @@
         <li>Personalization & Recommendations</li>
     </ul>
 </div>
+
 
 
 
