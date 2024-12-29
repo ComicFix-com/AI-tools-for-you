@@ -1513,6 +1513,20 @@ You can also find the most up-to-date guides on our new website [https://www.pro
 - [Prompt Engineering - Datasets](https://www.promptingguide.ai/datasets)
 - [Prompt Engineering - Additional Readings](https://www.promptingguide.ai/readings)
 
+# AI Tools List
+
+Here are some useful AI tools that can enhance your productivity:
+
+1️⃣ [Trinka](https://cloud.trinka.ai/)  
+2️⃣ [RefSeek](https://www.refseek.com/)  
+3️⃣ [Consensus](https://consensus.app/search/)  
+4️⃣ [Flourish Studio](https://app.flourish.studio/projects)  
+5️⃣ [ChatPDF](https://www.chatpdf.com/)  
+6️⃣ [ExplainPaper](https://www.explainpaper.com/dashboard)  
+7️⃣ [Quivr](https://chat.quivr.app/studio)  
+8️⃣ [Recall](https://recall.cards/app)  
+9️⃣ [Undetectable AI](https://undetectable.ai/)  
+🔟 [Tome](https://tome.app/aim-414)
 
 ---
 ## Lecture
