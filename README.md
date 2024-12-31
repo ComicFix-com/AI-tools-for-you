@@ -1655,4 +1655,23 @@ We have published a 1 hour lecture that provides a comprehensive overview of pro
 | CopyMonkey                         | ⭐️⭐️⭐️        | [https://copymonkey.ai/](https://copymonkey.ai/) | 📝 Text, 🚀 Productivity                 | Ecommerce product descriptions powered by AI.                                                          |                          |                               | Free, Paid          |
 
 -------------------------
+-------------------------
+***********
+| Rank (UB) | Model                                 | Arena Score | 95% CI             | Votes  | Organization | License     | Link                                               |
+|-----------|---------------------------------------|-------------|--------------------|--------|--------------|-------------|----------------------------------------------------|
+| 1         | [Claude 3.5 Sonnet (20241022)](https://www.anthropic.com)          | 1218.58     | +5.75 / -6.77      | 11,068 | Anthropic    | Proprietary | [Claude 3.5 Sonnet](https://www.anthropic.com)        |
+| 2         | [Claude 3.5 Haiku (20241022)](https://www.anthropic.com)           | 1137.96     | +11.90 / -12.20    | 2,116  | Anthropic    | Proprietary | [Claude 3.5 Haiku](https://www.anthropic.com)         |
+| 3         | [o1-mini (20240912)](https://openai.com)                    | 1065.10     | +5.98 / -9.41      | 5,443  | OpenAI       | Proprietary | [o1-mini](https://openai.com)                        |
+| 4         | [Gemini-2.0-Flash-Thinking-1219](https://www.google.com)        | 1022.92     | +7.18 / -9.54      | 4,360  | Google       | Proprietary | [Gemini-2.0-Flash-Thinking](https://www.google.com)   |
+| 4         | [Gemini-Exp-1206](https://www.google.com)                       | 1017.09     | +5.79 / -6.01      | 10,333 | Google       | Proprietary | [Gemini-Exp](https://www.google.com)                  |
+| 4         | [o1 (20241217)](https://openai.com)                         | 1015.79     | +12.48 / -15.90    | 1,499  | OpenAI       | Proprietary | [o1](https://openai.com)                             |
+| 7         | [Gemini-2.0-Flash-Exp](https://www.google.com)                  | 971.68      | +6.43 / -7.16      | 9,558  | Google       | Proprietary | [Gemini-2.0-Flash-Exp](https://www.google.com)         |
+| 7         | [GPT-4o-2024-11-20](https://openai.com)                     | 964.35      | +6.58 / -5.36      | 10,420 | OpenAI       | Proprietary | [GPT-4o](https://openai.com)                        |
+| 7         | [DeepSeek v3](https://www.deepseek.ai)                           | 960.01      | +14.50 / -13.37    | 1,585  | DeepSeek     | DeepSeek    | [DeepSeek](https://www.deepseek.ai)                  |
+| 10        | [Qwen2.5-Coder-32B-Instruct](https://www.alibaba.com)            | 909.17      | +6.30 / -6.00      | 10,333 | Alibaba      | Apache 2.0  | [Qwen2.5-Coder-32B-Instruct](https://www.alibaba.com) |
+| 10        | [Gemini-1.5-Pro-002](https://www.google.com)                    | 899.08      | +6.14 / -5.98      | 10,086 | Google       | Proprietary | [Gemini-1.5-Pro](https://www.google.com)               |
+| 12        | [Llama-3.1-405B-Instruct](https://www.meta.com)               | 818.58      | +12.91 / -13.62    | 1,417  | Meta         | Llama 3.1   | [Llama-3.1](https://www.meta.com)                    |
+
+***********
+--------------------------
 **[⬆ back to index](#index)**
