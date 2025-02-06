@@ -1673,5 +1673,27 @@ We have published a 1 hour lecture that provides a comprehensive overview of pro
 | 12        | [Llama-3.1-405B-Instruct](https://www.meta.com)               | 818.58      | +12.91 / -13.62    | 1,417  | Meta         | Llama 3.1   | [Llama-3.1](https://www.meta.com)                    |
 
 ***********
+
+----------------------------------------------------------------------
+
+------------------------------------------------------------------------
+*Free Ai tool for presentation*
+*********************************************************************************************************************************************************************************************************************
+**Gamma**        | [https://gamma.app](https://gamma.app)                                                  |
+| **PopAI**        | [https://popai.com](https://popai.com)                                                  |
+| **SlidesGo**     | [https://slidesgo.com](https://slidesgo.com)                                            |
+| **Pitch**        | [https://pitch.com](https://pitch.com)                                                  |
+| **StoryD**       | [https://storyd.com](https://storyd.com)                                                |
+| **Canva**        | [https://canva.com](https://canva.com)                                                  |
+| **AiPPT**        | [https://aippt.com](https://aippt.com)                                                  |
+| **SlidesAI**     | [https://slidesai.io](https://slidesai.io)                                              |
+| **MagicSlides**  | [https://magicslides.ai](https://magicslides.ai)                                        |
+| **Simplified**   | [https://simplified.co](https://simplified.co)                                          |
+| **Edcafe AI**    | [https://edcafe.ai](https://edcafe.ai)                                                  |
+| **Slidesgo**     | [https://slidesgo.com](https://slidesgo.com)
+*********************************************************************************************************************************************************************************************************************
+
+
+
 --------------------------
 **[⬆ back to index](#index)**
